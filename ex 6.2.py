@@ -13,6 +13,6 @@ class Mass(Road):
         self.volume = volume
 
 
-r = Massex 6.2(25, 10000, 125)
+r = Mass(25, 10000, 125)
 print(r.mass())
 
